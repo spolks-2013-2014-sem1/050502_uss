@@ -55,7 +55,7 @@ void main(int argc, char *argv[])
 			exit(0);
 		}
 
-		msg1="nikita zaebal!!!!!!!!!!!!!!1111111";
+		msg1="msg from server";
 		//timer=time(NULL);
  		//*msg2=ctime(&timer);
 
